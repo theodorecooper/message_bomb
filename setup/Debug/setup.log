@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (setup.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  setup.cpp
+D:\c files\message_bomb\setup\setup.cpp(38,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  setup.vcxproj -> D:\c files\message_bomb\Debug\message_bomb.exe
